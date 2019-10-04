@@ -1,0 +1,42 @@
+[
+  {
+    "Semana": "1",
+    "puntos": 2000,
+    "doble": 1857,
+    "duda": 43,
+    "sindato": 100,
+    "imagenes": 4000,
+    "sinvisibilidad": 50,
+    "tileincompleto": 150,
+  },
+  {
+    "Semana": "2",
+    "puntos": 2500,
+    "doble": 1857,
+    "duda": 43,
+    "sindato": 600,
+    "imagenes": 4000,
+    "sinvisibilidad": 50,
+    "tileincompleto": 150,
+  },
+  {
+    "Semana": "3",
+    "puntos": 2100,
+    "doble": 1957,
+    "duda": 43,
+    "sindato": 100,
+    "imagenes": 4000,
+    "sinvisibilidad": 50,
+    "tileincompleto": 150,
+  },
+  {
+    "Semana": "4",
+    "puntos": 1800,
+    "doble": 1657,
+    "duda": 43,
+    "sindato": 100,
+    "imagenes": 4000,
+    "sinvisibilidad": 50,
+    "tileincompleto": 150,
+  }
+]
