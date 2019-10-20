@@ -1,0 +1,176 @@
+Semana,Caso,Tipo,Puntos 
+1,modelo,Puntos ,2100
+1,modelo,doble,1957
+1,modelo,duda,43
+1,modelo,sindato,100
+2,modelo,Puntos ,2000
+2,modelo,doble,1857
+2,modelo,duda,43
+2,modelo,sindato,100
+3,modelo,Puntos ,2500
+3,modelo,doble,1857
+3,modelo,duda,43
+3,modelo,sindato,600
+4,modelo,Puntos ,1800
+4,modelo,doble,1657
+4,modelo,duda,43
+4,modelo,sindato,100
+5,modelo,Puntos ,1705
+5,modelo,doble,1587
+5,modelo,duda,18
+5,modelo,sindato,70
+6,modelo,Puntos ,1047
+6,modelo,doble,1026
+6,modelo,duda,7
+6,modelo,sindato,14
+7,modelo,Puntos ,1271
+7,modelo,doble,1256
+7,modelo,duda,4
+7,modelo,sindato,11
+8,modelo,Puntos ,1524
+8,modelo,doble,1498
+8,modelo,duda,24
+8,modelo,sindato,2
+9,modelo,Puntos ,1239
+9,modelo,doble,1180
+9,modelo,duda,42
+9,modelo,sindato,56
+10,modelo,Puntos ,1024
+10,modelo,doble,1016
+10,modelo,duda,23
+10,modelo,sindato,6
+11,modelo,Puntos ,1588
+11,modelo,doble,1022
+11,modelo,duda,18
+11,modelo,sindato,525
+12,modelo,Puntos ,1211
+12,modelo,doble,1105
+12,modelo,duda,14
+12,modelo,sindato,2
+13,modelo,Puntos ,1641
+13,modelo,doble,1544
+13,modelo,duda,56
+13,modelo,sindato,43
+14,modelo,Puntos ,1235
+14,modelo,doble,1111
+14,modelo,duda,22
+14,modelo,sindato,96
+15,modelo,Puntos ,1820
+15,modelo,doble,1530
+15,modelo,duda,55
+15,modelo,sindato,272
+16,modelo,Puntos ,1829
+16,modelo,doble,1392
+16,modelo,duda,61
+16,modelo,sindato,393
+17,modelo,Puntos ,2195
+17,modelo,doble,1808
+17,modelo,duda,42
+17,modelo,sindato,375
+18,modelo,Puntos ,1757
+18,modelo,doble,757
+18,modelo,duda,0
+18,modelo,sindato,0
+19,modelo,Puntos ,1105
+19,modelo,doble,975
+19,modelo,duda,53
+19,modelo,sindato,89
+20,modelo,Puntos ,1062
+20,modelo,doble,976
+20,modelo,duda,29
+20,modelo,sindato,39
+21,modelo,Puntos ,1200
+21,modelo,doble,1191
+21,modelo,duda,30
+21,modelo,sindato,0
+22,modelo,Puntos ,1397
+22,modelo,doble,1126
+22,modelo,duda,28
+22,modelo,sindato,259
+23,modelo,Puntos ,1661
+23,modelo,doble,1434
+23,modelo,duda,21
+23,modelo,sindato,203
+24,modelo,Puntos ,1041
+24,modelo,doble,1703
+24,modelo,duda,45
+24,modelo,sindato,303
+25,modelo,Puntos ,1994
+25,modelo,doble,1968
+25,modelo,duda,68
+25,modelo,sindato,8
+1,img,im‡genes,4200
+1,img,sinvisibilidad,290
+1,img,tileincompleto,136
+2,img,im‡genes,4000
+2,img,sinvisibilidad,50
+2,img,tileincompleto,150
+3,img,im‡genes,5000
+3,img,sinvisibilidad,458
+3,img,tileincompleto,30
+4,img,im‡genes,4000
+4,img,sinvisibilidad,860
+4,img,tileincompleto,40
+5,img,im‡genes,3410
+5,img,sinvisibilidad,369
+5,img,tileincompleto,34
+6,img,im‡genes,94
+6,img,sinvisibilidad,51
+6,img,tileincompleto,49
+7,img,im‡genes,542
+7,img,sinvisibilidad,24
+7,img,tileincompleto,0
+8,img,im‡genes,1048
+8,img,sinvisibilidad,66
+8,img,tileincompleto,45
+9,img,im‡genes,2478
+9,img,sinvisibilidad,281
+9,img,tileincompleto,160
+10,img,im‡genes,48
+10,img,sinvisibilidad,27
+10,img,tileincompleto,3
+11,img,im‡genes,3176
+11,img,sinvisibilidad,374
+11,img,tileincompleto,97
+12,img,im‡genes,242
+12,img,sinvisibilidad,1
+12,img,tileincompleto,1
+13,img,im‡genes,3282
+13,img,sinvisibilidad,164
+13,img,tileincompleto,69
+14,img,im‡genes,470
+14,img,sinvisibilidad,40
+14,img,tileincompleto,4
+15,img,im‡genes,1640
+15,img,sinvisibilidad,48
+15,img,tileincompleto,46
+16,img,im‡genes,3658
+16,img,sinvisibilidad,29
+16,img,tileincompleto,0
+17,img,im‡genes,4390
+17,img,sinvisibilidad,288
+17,img,tileincompleto,0
+18,img,im‡genes,1514
+18,img,sinvisibilidad,80
+18,img,tileincompleto,12
+19,img,im‡genes,2210
+19,img,sinvisibilidad,52
+19,img,tileincompleto,38
+20,img,im‡genes,2124
+20,img,sinvisibilidad,39
+20,img,tileincompleto,6
+21,img,im‡genes,2400
+21,img,sinvisibilidad,74
+21,img,tileincompleto,45
+22,img,im‡genes,2794
+22,img,sinvisibilidad,78
+22,img,tileincompleto,56
+23,img,im‡genes,1322
+23,img,sinvisibilidad,147
+23,img,tileincompleto,111
+24,img,im‡genes,2082
+24,img,sinvisibilidad,4
+24,img,tileincompleto,2
+25,img,im‡genes,3988
+25,img,sinvisibilidad,177
+25,img,tileincompleto,119
